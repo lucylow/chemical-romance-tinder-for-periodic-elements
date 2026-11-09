@@ -1,1 +1,7 @@
 # chemical-romance-tinder-for-periodic-elements
+
+![](https://github.com/lucylow/chemical-romance-tinder-for-periodic-elements/blob/main/dVrqSarL2QWPxLiwMbtUMt_1794250296599_na1fn_L2hvbWUvdWJ1bnR1L2NoZW1pY2FsLXJvbWFuY2Utd29yay9leHBhbnNpb24vY2hlbWljYWwtcm9tYW5jZS9kb2NzL3NjcmVlbnNob3RzL2hlbGl1bS1wZXJzb25hbGl0eQ.png?raw=true) 
+
+![](https://github.com/lucylow/chemical-romance-tinder-for-periodic-elements/blob/main/RtKLZ3ztPbrF1L6Fq01I4T_1794250171179_na1fn_L2hvbWUvdWJ1bnR1L2NoZW1pY2FsLXJvbWFuY2Utd29yay9leHBhbnNpb24vY2hlbWljYWwtcm9tYW5jZS9kb2NzL3NjcmVlbnNob3RzL2Rpc2NvdmVyLXNjcmVlbg.png?raw=true) 
+
+![](https://github.com/lucylow/chemical-romance-tinder-for-periodic-elements/blob/main/RtKLZ3ztPbrF1L6Fq01I4T_1794250171175_na1fn_L2hvbWUvdWJ1bnR1L2NoZW1pY2FsLXJvbWFuY2Utd29yay9leHBhbnNpb24vY2hlbWljYWwtcm9tYW5jZS9kb2NzL3NjcmVlbnNob3RzL21lbW9yeS1zY3JlZW4%20(1).png?raw=true) 
