@@ -2,7 +2,7 @@
 ### Swipe right for chemistry. Fall in love with the periodic table.
 
 <p align="center">
-  **118 Elements. Infinite Personalities. Real Chemistry.**
+118 Elements. Infinite Personalities. Real Chemistry.
 </p>
 
 <p align="center">
