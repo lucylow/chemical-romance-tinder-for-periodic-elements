@@ -9,14 +9,6 @@
   An interactive, character-driven chemistry learning game that transforms the periodic table into a world of discovery, relationships, experimentation, challenges and scientific exploration.
 </p>
 
-<p align="center">
-  ![Expo](https://img.shields.io/badge/Expo-SDK%2054-000020?logo=expo)
-  ![React Native](https://img.shields.io/badge/React%20Native-0.81-61DAFB?logo=react)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript)
-  ![Elements](https://img.shields.io/badge/Elements-118-8B5CF6)
-  ![Architecture](https://img.shields.io/badge/Architecture-Local--First-EC4899)
-  ![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android%20%7C%20Web-informational)
-</p>
 
 ---
 
