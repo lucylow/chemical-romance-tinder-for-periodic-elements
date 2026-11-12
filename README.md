@@ -9,6 +9,22 @@
   An interactive, character-driven chemistry learning game that transforms the periodic table into a world of discovery, relationships, experimentation, challenges and scientific exploration.
 </p>
 
+TODO:
+
+
+Story-Based Linking (The First 10 Elements)
+
+Create a vivid, wild mini-story in your head to link symbols and names together:
+• H & He (Hydrogen & Helium): Wave Hi while holding a floating Helium balloon.
+• Li & Be & B (Lithium, Beryllium, Boron): The balloon is powered by Lithium batteries, grabbed by a Bear standing on a Board.
+• C, N, O (Carbon, Nitrogen, Oxygen): A Car drives by and the driver shakes their head No for Oxygen.
+• F & Ne (Fluorine & Neon): They drive to a shop with a bright Neon sign selling Flooring (Fluorine).
+
+2. Catchy Row Mnemonics
+
+Break the table down into bite-sized sentence mnemonics (like acrostics):
+• Row 2 (Li, Be, B, C, N, O, F, Ne): "Little Betty Bakes Cookies Not Only For Ned" or "Libebcnofne".
+• Row 3 (Na, Mg, Al, Si, P, S, Cl, Ar): "Nancy Might Always Sing Perfect Songs Clearly"
 
 ---
 
